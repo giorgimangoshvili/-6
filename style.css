@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+img{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;  
+}
+.text{
+    display: flex;
+    flex-direction: column;   
+}
